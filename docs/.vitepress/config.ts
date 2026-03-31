@@ -18,6 +18,7 @@ export default defineConfig({
           { text: '훅 설정법', link: '/guide/hooks' },
           { text: '룰 관리법', link: '/guide/rules' },
           { text: '에이전트 설계법', link: '/guide/agents' },
+          { text: '스킬 카탈로그', link: '/guide/catalog' },
         ],
       },
       {
