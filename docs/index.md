@@ -11,7 +11,7 @@ hero:
       link: /getting-started
     - theme: alt
       text: GitHub
-      link: https://github.com/yujinimda/claude-playbook
+      link: https://github.com/YY-Studios/claude-playbook
 
 features:
   - title: Skills

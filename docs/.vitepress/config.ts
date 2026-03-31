@@ -26,7 +26,7 @@ export default defineConfig({
       },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/yujinimda/claude-playbook' },
+      { icon: 'github', link: 'https://github.com/YY-Studios/claude-playbook' },
     ],
   },
 })
